@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+.block{
+    width: 200px;
+    height: 100px;
+    background: greenyellow;
+    margin-top: 20px;
+}
